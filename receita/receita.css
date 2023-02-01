@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(235, 188, 102);
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    background-color: orange;
+    background: linear-gradient(68.15deg, #ffcd2a 16.62%, #ff9900 85.61%);
+    border-radius: 15px;
+    border: 1px solid black;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    color:black;
+}
+#titulo{
+    text-align: center;
+}
+na ul li{
+    display: inline;
+    margin-right: 50px;
+}
+nav ul li {
+    background: #ffd21e;
+    padding:3px;
+    margin-bottom:5px;
+}
+nav ul li a{
+    color:black;
+    text-decoration:none;
+}
+nav ul{
+    list-style:none;
+    padding-left:0;
+}
+nav ul li:hover{
+    background-color:#ff7c25;
+}
+
+#tb-nutrientes{
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+
+}
+#tb-nutrientes th{
+    background-color: rgb(255, 255, 218);
+}
+
+#topo{
+    text-align: center;
+}
