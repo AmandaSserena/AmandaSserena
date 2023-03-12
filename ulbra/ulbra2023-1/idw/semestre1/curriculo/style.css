@@ -1,15 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
-
-
-
+@import url('https://fonts.googleapis.com/css2?family= Dancing + Script & display=swap');
 body{
-    background-color: rgb(248, 196, 255);
+    background-color: rgb(173, 202, 255);
 }
 .titulo{
-    text-decoration: underline;
-    font-family: 'Dancing Script', cursive;
-    font-style: italic;
 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .foto{
     width: 250px;
@@ -23,13 +18,14 @@ body{
 .logogit{
     width: 40px;
     position: relative;
-    bottom: 4px;
-}
+    bottom: 4px;}
+
 h2{
     font-family: 'Dancing Script', cursive;
-    font-size: 30px;
-    background-color: rgb(0, 229, 255);
-    background: linear-gradient(68.15deg, #ec80d1 16.62%, #ff00b7 85.61%);
+    background:#5599DD;
+    color:#0e0c0c; 
+    background:linear-gradient(rgb(120, 120, 250),rgb(45, 137, 224),blue);
+    padding-top: 5px;
     border-radius: 15px;
     border: 1px solid black;
     padding-top: 5px;
@@ -37,12 +33,13 @@ h2{
     padding-right: 20px;
     padding-bottom: 5px;
     color:black;
-
 }
 p{
     font-family: 'Dancing Script', cursive;
     font-size: 25px;
+
 }
+
 .exp{
     font-family: 'Dancing Script', cursive;
 text-indent:50px
@@ -52,7 +49,8 @@ text-decoration:underline;
 font-style:italic;
 }
 body{
-    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-family: 'Dancing Script', cursive;
     width:940px;
     margin-right: auto;
     margin-left: auto;
