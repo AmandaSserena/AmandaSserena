@@ -13,6 +13,9 @@
 <p align="center">
     <img src="https://img.shields.io/badge/language-HTML-red"/>
     <img src="https://img.shields.io/badge/language-css-blue"/>
+    <img src="https://img.shields.io/badge/language-typescript-blue"/>
+    <img src="https://img.shields.io/badge/language-javascript-yellow"/>
+    <img src="https://img.shields.io/badge/language-c%23-blue"/>
 </p>
 
 <h3 align="center">About my building</h3>
@@ -28,5 +31,3 @@
         <img align="center" src="/assets/svgs/instagram.svg" alt="AmandaSserena" height="20" width="20" />
     </a>
 </p>
-
-![Snake animation](https://github.com/AmandaSserena/AmandaSserena/blob/output/github-contribution-grid-snake.svg)
