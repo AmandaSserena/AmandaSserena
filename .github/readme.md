@@ -1,5 +1,5 @@
 
-<img align="center" width="100%" src="https://github.com/AmandaSserena/AmandaSserena/blob/main/.github/workflows/Banner%20(2).png" alt="Banner do Perfil de Amanda Serena" />
+<img align="center" width="100%" src="https://github.com/AmandaSserena/AmandaSserena/blob/main/.github/workflows/banner%20(3).png" alt="Banner do Perfil de Amanda Serena" />
 
 
 <p align="center">🎨 Desenvolvedora apaixonada por criar interfaces elegantes e modernas. <br><br> Combinando habilidades em front-end e PHP, trago à vida soluções visuais dinâmicas e funcionais. Amo transformar ideias em experiências digitais incríveis e inovadoras!</p>
@@ -45,7 +45,7 @@
 
 ### Redes Sociais
 <div align="center">
-<a href="https://www.instagram.com/amandaserena.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/amanda.s.serena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:amandaserena@rede.ulbra.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/amanda-serena-53aa73264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
