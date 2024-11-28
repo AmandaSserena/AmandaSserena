@@ -53,7 +53,7 @@
 ---
 
 
-![Snake animation](https://github.com/amandasserena/amandaSserena/blob/output/snake.svg)
+![Snake animation](https://github.com/amandaSserena/amandaSserena/blob/output/snake.svg)
 
 
 <p align="center">💻 Vamos criar juntos projetos inovadores e cheios de estilo!</p>
