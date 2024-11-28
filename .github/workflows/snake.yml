@@ -17,7 +17,7 @@ jobs:
       - name: Gerar a cobrinha
         uses: Platane/snk@v2
         with:
-          github_user_name: amandasserena
+          github_user_name: amandaSserena
           outputs: dist/snake.svg
 
       - name: Adicionar saída ao README
