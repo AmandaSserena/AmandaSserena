@@ -1,6 +1,6 @@
 # Perfil do GitHub de Amanda Serena
 
-<img align="center" width="100%" src="https://via.placeholder.com/1000x300.png?text=Amanda+Serena+-+Desenvolvedora+Front-End" alt="Banner do Perfil de Amanda Serena" />
+<img align="center" width="100%" src="https://www.canva.com/design/DAGXzLEV2x4/5LjQl1kuxzbdJkqFXmCyHg/edit?utm_content=DAGXzLEV2x4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner do Perfil de Amanda Serena" />
 
 <p align="center">🎨 Desenvolvedora apaixonada por criar interfaces elegantes e modernas. <br><br> Combinando habilidades em front-end e PHP, trago à vida soluções visuais dinâmicas e funcionais. Amo transformar ideias em experiências digitais incríveis e inovadoras!</p>
 
@@ -22,7 +22,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Bancos de Dados:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,9 +45,9 @@
 
 ### Redes Sociais
 <div align="center">
-<a href="https://www.instagram.com/amandaserena.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:amanda.serena.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/amandaserena/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/amandaserena.dev" target="_blank"><img src="https://www.instagram.com/stories/amanda.s.serena/" alt="Instagram"></a>
+<a href="mailto:amandaserena@rede.ulbra.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/amanda-serena-53aa73264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
 ---
