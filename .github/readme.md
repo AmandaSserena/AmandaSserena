@@ -1,6 +1,6 @@
 # Perfil do GitHub de Amanda Serena
 
-<img align="center" width="100%" src="https://www.canva.com/design/DAGXzLEV2x4/5LjQl1kuxzbdJkqFXmCyHg/edit?utm_content=DAGXzLEV2x4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner do Perfil de Amanda Serena" />
+<img align="center" width="100%" src="banner(2)png" alt="Banner do Perfil de Amanda Serena" />
 
 <p align="center">🎨 Desenvolvedora apaixonada por criar interfaces elegantes e modernas. <br><br> Combinando habilidades em front-end e PHP, trago à vida soluções visuais dinâmicas e funcionais. Amo transformar ideias em experiências digitais incríveis e inovadoras!</p>
 
