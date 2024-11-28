@@ -53,4 +53,4 @@
 ---
 
 
-![Snake animation](https://github.com/amandaSserena/amandaSserena/blob/output/snake
+![Snake animation](https://github.com/amandaSserena/amandaSserena/blob/output/snake)
