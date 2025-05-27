@@ -1,8 +1,16 @@
 # Perfil do GitHub de Amanda Serena
 
-<img align="center" width="100%" src="https://www.canva.com/design/DAGXzLEV2x4/5LjQl1kuxzbdJkqFXmCyHg/edit?utm_content=DAGXzLEV2x4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner do Perfil de Amanda Serena" />
+<div align="center">
+  <img width="100%" src="https://link_da_imagem_publica.png" alt="Banner do Perfil de Amanda Serena" />
+</div>
 
-<p align="center">🎨 Desenvolvedora apaixonada por criar interfaces elegantes e modernas. <br><br> Combinando habilidades em front-end e PHP, trago à vida soluções visuais dinâmicas e funcionais. Amo transformar ideias em experiências digitais incríveis e inovadoras!</p>
+<div align="center">
+  
+🎨 Desenvolvedora apaixonada por criar interfaces elegantes e modernas.  
+Combinando habilidades em front-end e PHP, trago à vida soluções visuais dinâmicas e funcionais.  
+Amo transformar ideias em experiências digitais incríveis e inovadoras!
+
+</div>
 
 ---
 
@@ -35,22 +43,33 @@
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=amandasserena&theme=dracula&mode=weekly" alt="Estatísticas do GitHub" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandasserena&show_icons=true&theme=dracula&layout=compact" alt="Linguagens Mais Usadas" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=amandasserena&theme=dracula&mode=weekly" alt="Estatísticas do GitHub" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandasserena&show_icons=true&theme=dracula&layout=compact" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
 
 ## 🌐 Vamos Conectar?
 
-### Redes Sociais
 <div align="center">
-<a href="https://www.instagram.com/amandaserena.dev" target="_blank"><img src="https://www.instagram.com/stories/amanda.s.serena/" alt="Instagram"></a>
-<a href="mailto:amandaserena@rede.ulbra.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/amanda-serena-53aa73264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  
+<a href="https://www.instagram.com/amanda.s.serena/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="mailto:amandaserena@rede.ulbra.br" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/amanda-serena-53aa73264/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 </div>
 
 ---
 
+<div align="center">
+  
+  
+💻 Vamos criar juntos projetos inovadores e cheios de estilo!
 
-![Snake animation](https://github.com/amandaSserena/amandaSserena/blob/output/snake)
+</div>
