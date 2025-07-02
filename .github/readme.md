@@ -51,7 +51,7 @@ Sou apaixonada por tecnologia, design e inovação. Atuo nas áreas de:
 
 ### 📫 Vamos nos conectar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/amandasserena/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/amanda-serena-53aa73264/)
 - 📧 Email: amandasserena@rede.ulbra.com
 
 ---
