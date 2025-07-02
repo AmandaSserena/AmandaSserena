@@ -46,7 +46,7 @@ Sou apaixonada por tecnologia, design e inovação. Atuo nas áreas de:
 </td>
 <td valign="top">
   
-<img src="https://media.tenor.com/FzYHsd1KtzAAAAPo/cat-computer-typing.gif" alt="Gatinho programando" width="250"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gato programando" width="250"/>
 
 </td>
   </tr>
