@@ -3,7 +3,7 @@
 
 
 <h1 align="center">🌟 Amanda Serena 🌟</h1>
-<h3 align="center">Transformando criatividade em código, dados em decisões e qualidade em resultados.</h3>
+<h3 align="center">Transformando criatividade em código, dados em decisões e qualidade em experiências reais.</h3>
 
 ---
 
@@ -12,7 +12,7 @@
 Sou apaixonada por tecnologia, design e inovação. Atuo nas áreas de:
 
 - 🎨 **Front-End**: Desenvolvimento de interfaces modernas, acessíveis e responsivas com HTML, CSS, JavaScript e frameworks.
-- ✅ **Quality Assurance (QA)**: Garantia de qualidade com testes automatizados, testes manuais e foco em usabilidade.
+- ✅ **Testes e Automação**: Automatização de testes e organização de fluxos com Selenium, Trello e Postman.
 - 📊 **Análise de Dados**: Transformo dados em insights com ferramentas como SQL, Python, Power BI e Excel avançado.
 
 > Sempre aprendendo, sempre evoluindo. 🌱
@@ -28,9 +28,9 @@ Sou apaixonada por tecnologia, design e inovação. Atuo nas áreas de:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 
-#### 🔍 QA & Testes
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest)
+#### 🧪 Testes e Organização
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 
 #### 📈 Dados & BI
@@ -43,22 +43,21 @@ Sou apaixonada por tecnologia, design e inovação. Atuo nas áreas de:
 
 ### 💡 Projetos em Destaque
 
-🌐 [**Site Nutricionista**](https://amandasserena.github.io/SiteNutricionista/)  
-🔎 [**Sistema de Gerenciamento de Tarefas em PHP + MySQL**](https://github.com/AmandaSserena/GerenciadorTarefas)  
-📊 [**Dashboard de Vendas com Power BI**](#) *(em breve)*
+🔹 [**Thrive Digital**](https://thrivedigitalmkt.com.br/) – Criação de site moderno e responsivo para agência de marketing digital.  
+🔹 [**Inove BI**](https://inovebi.com/) – Site institucional para empresa Inove.  
+🔹 [**Instituto Somos Aldeia**](https://institutosomosaldeia.vercel.app/index.html) – Projeto voluntário para causa social voltada às mães atípicas.
 
 ---
 
 ### 📫 Vamos nos conectar?
 
-- 🌍 Site Portfólio: *em construção*
 - 💼 [LinkedIn](https://www.linkedin.com/in/amandasserena/)
-- 📧 Email: amandasserena.dev@gmail.com
+- 📧 Email: amandasserena@rede.ulbra.com
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Bem-vinda+ao+meu+GitHub!;Front-end+%7C+QA+%7C+Dados;Criatividade+%2B+C%C3%B3digo+%3D+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Bem-vinda+ao+meu+GitHub!;Front-end+%7C+Selenium+%7C+Power+BI;Criatividade+%2B+C%C3%B3digo+%3D+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
 ---
