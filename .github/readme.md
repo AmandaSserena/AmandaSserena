@@ -1,5 +1,6 @@
 <img align="center" width="100%" src="https://github.com/AmandaSserena/AmandaSserena/blob/main/.github/workflows/banner%20(3).png" alt="Banner do Perfil de Amanda Serena" />
 
+---
 
 <h3 align="center">Transformando criatividade em código, dados em decisões e qualidade em experiências reais.</h3>
 
