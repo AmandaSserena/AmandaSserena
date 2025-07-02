@@ -72,7 +72,7 @@ Sou apaixonada por tecnologia, design e inovação. Atuo nas áreas de:
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Bem-vinda+ao+meu+GitHub!;Front-end+%7C+Selenium+%7C+Power+BI;Criatividade+%2B+C%C3%B3digo+%3D+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Bem-vinda+ao+meu+GitHub!;Front-end+%7C+Quality Assurance+%7C+Analista+de+dados;Criatividade+%2B+C%C3%B3digo+%3D+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
 ---
