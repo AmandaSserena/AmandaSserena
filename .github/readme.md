@@ -1,6 +1,4 @@
-
 <img align="center" width="100%" src="https://github.com/AmandaSserena/AmandaSserena/blob/main/.github/workflows/banner%20(3).png" alt="Banner do Perfil de Amanda Serena" />
-
 
 <h1 align="center">🌟 Amanda Serena 🌟</h1>
 <h3 align="center">Transformando criatividade em código, dados em decisões e qualidade em experiências reais.</h3>
@@ -21,23 +19,40 @@ Sou apaixonada por tecnologia, design e inovação. Atuo nas áreas de:
 
 ### 🚀 Tecnologias e Ferramentas
 
+<div align="center">
+  
+<table>
+  <tr>
+    <td valign="top">
+
 #### 🌐 Front-End
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css"/>
 
 #### 🧪 Testes e Organização
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+<img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman"/>
 
 #### 📈 Dados & BI
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python"/>
+<img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql"/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb"/>
+
+</td>
+<td valign="top">
+  
+<img src="https://media.tenor.com/FzYHsd1KtzAAAAPo/cat-computer-typing.gif" alt="Gatinho programando" width="250"/>
+
+</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -61,6 +76,5 @@ Sou apaixonada por tecnologia, design e inovação. Atuo nas áreas de:
 </div>
 
 ---
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
