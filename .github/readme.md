@@ -91,5 +91,11 @@ Sou apaixonada por tecnologia, design e inovação. Atuo nas áreas de:
 ---
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmandaSerena/AmandaSerena/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmandaSerena/AmandaSerena/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AmandaSerena/AmandaSerena/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 ###
