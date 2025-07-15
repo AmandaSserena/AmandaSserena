@@ -83,10 +83,13 @@ Sou apaixonada por tecnologia, design e inovação. Atuo nas áreas de:
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmandaSerena/AmandaSerena/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmandaSerena/AmandaSerena/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AmandaSerena/AmandaSerena/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmandaSerena/AmandaSerena/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmandaSerena/AmandaSerena/output/pacman-contribution-graph.svg">
+    <img alt="Gráfico Pac-Man de contribuições" src="https://raw.githubusercontent.com/AmandaSerena/AmandaSerena/output/pacman-contribution-graph.svg" style="max-width: 100%;">
+  </picture>
+</div>
+
 
 ###
