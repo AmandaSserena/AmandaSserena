@@ -2,8 +2,8 @@ name: Generate Pac-Man Contribution Graph (Dark)
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Roda todo dia à meia-noite (UTC)
-  workflow_dispatch:       # Permite rodar manualmente em "Actions"
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -16,15 +16,15 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: AmandaSserena
-          gameTheme: github-dark         # <<--- FUNDO ESCURO
+          gameTheme: github-dark
           outputFormat: svg
-          speed: 2                       # 1=lento | 2=normal | 3=rápido
-          outputFile: pacman-dark.svg    # <<--- NOME FIXO DO ARQUIVO GERADO
+          speed: 2
+          outputFile: pacman-dark.svg   # arquivo gerado
 
       - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output          # publica no branch "output"
-          build_dir: .                   # publica o arquivo gerado na raiz do build
+          target_branch: output
+          build_dir: .                  # <- usar raiz (.)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
