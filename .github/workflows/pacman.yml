@@ -1,25 +1,24 @@
-name: Generate Pac-Man
+name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Atualiza todo dia à meia-noite
+    - cron: "0 0 * * *"   # roda todo dia à meia-noite UTC
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout do repositório
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Gerar Pac-Man
-        uses: Platane/snk@v3
+      - name: Gerar gráfico Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: AmandaSserena   # Trocar pelo user dela
-          outputs: dist/pacman-dark.svg?palette=github-dark
-          mode: eating
-          color_snake: yellow   # cor do Pac-Man
-          color_pellet: white   # cor dos pontos
+          github_user_name: AmandaSserena   # <<< NOME DELA AQUI
+          gameTheme: github-dark            # pode trocar por github, github-light
+          outputFormat: svg
+          speed: 2                          # 1 = lento, 2 = normal, 3 = rápido
 
       - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v3
