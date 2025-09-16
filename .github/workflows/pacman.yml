@@ -15,11 +15,11 @@ jobs:
       - name: Gerar Pac-Man
         uses: Platane/snk@v3
         with:
-          github_user_name: AmandaSserena   # Troque aqui pelo usuário
-          outputs: dist/pacman.svg
+          github_user_name: AmandaSserena   # Trocar pelo user dela
+          outputs: dist/pacman-dark.svg?palette=github-dark
           mode: eating
-          color_snake: yellow
-          color_pellet: purple
+          color_snake: yellow   # cor do Pac-Man
+          color_pellet: white   # cor dos pontos
 
       - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v3
