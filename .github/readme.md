@@ -59,8 +59,7 @@ Sou apaixonada por tecnologia, design e inovação. Atuo nas áreas de:
 ---
 
 ### 💡 Projetos em Destaque
-
-🔹 [**Thrive Digital**](https://thrivedigitalmkt.com.br/) – Criação de site moderno e responsivo para agência de marketing digital.  
+  
 🔹 [**Inove BI**](https://inovebi.com/) – Site institucional para empresa Inove.  
 🔹 [**Instituto Somos Aldeia**](https://institutosomosaldeia.vercel.app/index.html) – Projeto voluntário para causa social voltada às mães atípicas.
 
